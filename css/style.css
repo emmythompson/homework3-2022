@@ -108,13 +108,13 @@ nav li a:focus{
 
 /* Requirements 6-10 here: */
 .intro {
+  background-color:  #DDDDDD;
   background-image: url("../images/header.jpg");
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #B3B3B3;
 }
 
 .about, .clients, .method, .contact{
