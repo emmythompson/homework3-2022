@@ -114,7 +114,7 @@ nav li a:focus{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #DDDDDD, #858585, #707070, #B3B3B3;
+  background-color: #B3B3B3;
 }
 
 .about, .clients, .method, .contact{
@@ -123,7 +123,7 @@ nav li a:focus{
 
 .about-image, .clients-image, .method-image, .contact-image{
   grid-column: 1 / span 3;
-  max-height: 500;
+  max-height: 500px;
   overflow: hidden;
 }
 
